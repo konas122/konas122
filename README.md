@@ -1,2 +1,3 @@
-# konas122.github.io
-Personal Homepage
+# Hi
+[![konas122's GitHub stats](https://github-readme-stats.vercel.app/api?username=konas122&hide=prs)](https://github.com/konas122/github-readme-stats)
+
